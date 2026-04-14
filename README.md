@@ -7,3 +7,8 @@
   business.html
   contact.html
   styles.css
+
+
+  # Wordpress Site
+
+  https://e2osystems.wordpress.com/
